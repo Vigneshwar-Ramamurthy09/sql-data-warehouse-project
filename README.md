@@ -1,6 +1,6 @@
 # sql-data-warehouse-project
 
-Hi, My name is Vigneshwar Ramamurthy, I'm working as a Power Bi Developer for over 5 years and currently trying upskill myself with Data Warehousing architecture to transition into a Data Engineer. Hope you enjoy the journey.
+Hi, My name is Vigneshwar Ramamurthy, Currently working as a Power Bi Developer for over 5 years and currently trying upskill myself with Data Warehousing architecture to transition into a Data Engineer. Hope you enjoy the journey.
 
 Welcome to the **Database Warehouse** Repository
 
